@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a3e0f58cd752a49818e3b04667070f, type: 3}
+  m_Name: D5F6F14D-DEE2-4212-A29D-71EE389B7D41
+  m_EditorClassIdentifier: 
+  objectName: tv_car_passby
+  id: 4238077199
+  guid: D5F6F14D-DEE2-4212-A29D-71EE389B7D41

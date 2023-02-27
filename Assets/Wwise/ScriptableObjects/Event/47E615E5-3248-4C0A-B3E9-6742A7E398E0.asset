@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a3e0f58cd752a49818e3b04667070f, type: 3}
+  m_Name: 47E615E5-3248-4C0A-B3E9-6742A7E398E0
+  m_EditorClassIdentifier: 
+  objectName: ThirdLap
+  id: 1568327959
+  guid: 47E615E5-3248-4C0A-B3E9-6742A7E398E0

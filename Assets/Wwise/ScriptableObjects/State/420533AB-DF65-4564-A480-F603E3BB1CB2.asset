@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 182802f9f5386b44e81d1bd6083a45ba, type: 3}
+  m_Name: 420533AB-DF65-4564-A480-F603E3BB1CB2
+  m_EditorClassIdentifier: 
+  objectName: CircuitStart
+  id: 668771194
+  guid: 420533AB-DF65-4564-A480-F603E3BB1CB2
+  WwiseStateGroupReference: {fileID: 11400000, guid: 929f27fc6d559b043963bc100485eb92,
+    type: 2}

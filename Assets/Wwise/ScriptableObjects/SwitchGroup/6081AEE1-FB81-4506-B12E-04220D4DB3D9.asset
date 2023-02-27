@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65e84cc13a3bf1847bb7fe37544c2983, type: 3}
+  m_Name: 6081AEE1-FB81-4506-B12E-04220D4DB3D9
+  m_EditorClassIdentifier: 
+  objectName: RoadMaterial
+  id: 1377718168
+  guid: 6081AEE1-FB81-4506-B12E-04220D4DB3D9

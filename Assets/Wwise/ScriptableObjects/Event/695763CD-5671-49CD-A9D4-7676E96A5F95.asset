@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a3e0f58cd752a49818e3b04667070f, type: 3}
+  m_Name: 695763CD-5671-49CD-A9D4-7676E96A5F95
+  m_EditorClassIdentifier: 
+  objectName: Bar_Restaurant_Crowd
+  id: 1223201024
+  guid: 695763CD-5671-49CD-A9D4-7676E96A5F95
